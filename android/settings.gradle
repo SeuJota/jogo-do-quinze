@@ -1,0 +1,3 @@
+rootProject.name = 'fifteen_game'
+
+include ':app'
